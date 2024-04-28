@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ML Projects
 - 📫 How to reach me mauryaayush2000@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
 
 <!---
 Ayush0563/Ayush0563 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
